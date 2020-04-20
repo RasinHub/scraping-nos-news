@@ -1,15 +1,17 @@
-# Dunya-Halleri
-
-Python ile Veri Kazıma(Web Scraping) Çalışması: Dünya Halleri Verisinin Kazınıp, Analiz Edilmesi ve Modellenmesi Yazısının kodlarıdır. 
-
-Yunus Emre Gündoğmuş - 2019 Ekim
+﻿# WWW.NOS.NL
 
 
-# Dosyalar
+Web scraping with Python: scraping data from www.nos.nl, analyzing the data and modeling them. 
+
+Rasin ASCI  7 March 2020
+
+
+# Files
 - Output : Elde Ettiğimiz HTML Çıktıları
-- DunyaHalleri.xlsx : Haber Linki, Metni, Özeti, Başlığı ve Tarihini Barındıran Veriseti
-- urldata.csv : Haber Linki ve Kategorisini Barındıran Veriseti
-- DunyaHalleri WebScraping.pptx : Yapılan Çalışmanın Sunum Hali 
-- Scraper.ipynb : Veri Kazıma Kodlarının Bulunduğu Jupyter Notebook Dosyası
-- Analizler.ipynb : Analizlerin Bulunduğu Jupyter Notebook Dosyası
+- output/NOS_all…..xlsx : Data set that has news link, Title ,Content, Sumary and data-time
+- urls/nos_url_data<data>.csv :Data set that has categories an news links
+- NOS WebScraping.pptx : Presentation of the work
+- Scraper.ipynb : is a Jupyter Notebook file that contains the codes of web scraping
+- Analizler.ipynb : is a Jupyter Notebook file that contains analyses 
 # scraping-nos-news
+

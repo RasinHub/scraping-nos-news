@@ -7,7 +7,7 @@ Rasin ASCI  7 March 2020
 
 
 # Files
-- Output : Elde Ettiğimiz HTML Çıktıları
+- Output : HTML 
 - output/NOS_all…..xlsx : Data set that has news link, Title ,Content, Sumary and data-time
 - urls/nos_url_data<data>.csv :Data set that has categories an news links
 - NOS WebScraping.pptx : Presentation of the work
